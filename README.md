@@ -1,5 +1,5 @@
-# IMDB
-##### Some data analyses, visualizations, and predictive models related to the Movies and Films area using data obtained from IMDB database.
+# Machine Learning in Films
+##### Some data analyses, visualizations, and predictive models related to the Movies and Films area using data obtained from IMDB (and others) databases.
 
 ## Notebooks:
 ### Word2Vec in non-NLP context
